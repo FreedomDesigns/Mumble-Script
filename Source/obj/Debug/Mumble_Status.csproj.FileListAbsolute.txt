@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\bin\Debug\Mumble_Status.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\bin\Debug\Mumble_Status.exe
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\bin\Debug\Mumble_Status.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\obj\Debug\Mumble_Status.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\obj\Debug\Mumble_Status.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\obj\Debug\Mumble_Status.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\obj\Debug\Mumble_Status.exe
+c:\users\alex\documents\visual studio 2015\Projects\Mumble_Status\Mumble_Status\obj\Debug\Mumble_Status.pdb
